@@ -1,0 +1,26 @@
+h1 {
+    font-family:lihei pro;
+    font-size: 40px;
+    color: #fff;
+    text-shadow: #000 1px 1px 2px,   #000 2px 1px 2px,   #000 1px 1px 1px,
+    #000 1px 2px 3px,   #000 2px 0px 1px,   #000 1px 1px 1px;  
+}
+
+h2 {
+    font-family:lihei pro;
+    font-size: 15px;
+    color: black;
+}
+
+a {
+    color: rgb(212, 94, 223);
+}
+
+a:hover {
+    background-color: yellow;
+    padding: 5px;
+}
+
+body {
+    background-color: rgb(248, 237, 248);
+}
